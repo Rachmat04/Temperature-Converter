@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Temperature Converter")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A simple console app to convert temperature value")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Umbrella Corporation")]
 [assembly: AssemblyProduct("Temperature Converter")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright © 2016 Rachmat Wahidi")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
